@@ -7,9 +7,9 @@
 
 ![image](https://github.com/Testnetnodes/Sonaric-Network/assets/115115403/a4bc9a2d-d57b-4053-bcd9-351d1bf3390c)
 
- * [Topluluk kanalımız](https://t.me/testnetnodesgenel)<br>
- * [Topluluk kanalımız](https://t.me/corenodechat)<br>
- * [Topluluk Twitter](https://twitter.com/testnetnodes)<br>
+ * [Testnetnodes TG](https://t.me/testnetnodesgenel)<br>
+ * [CoreNode TG](https://t.me/corenodechat)<br>
+ * [Testnetnodes Twitter](https://twitter.com/testnetnodes)<br>
  * [Sonaric Website](https://tracker.sonaric.xyz/)<br>
  * [Discord](https://discord.gg/MZ247hw47z)<br>
  * [Twitter](https://x.com/SonaricNetwork)<br>
