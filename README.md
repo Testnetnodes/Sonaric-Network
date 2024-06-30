@@ -14,7 +14,7 @@
  * [Discord](https://discord.gg/MZ247hw47z)<br>
  * [Twitter](https://x.com/SonaricNetwork)<br>
 
-NOT : Ödüllü Testnet 
+ ## NOT : Ödüllü Testnet ⚠️💸
 
  ## 💻 Sistem Gereksinimleri
 
