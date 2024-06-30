@@ -16,6 +16,7 @@
 
  ## NOT : Ödüllü Testnet ⚠️💸
 
+ 
  ## 💻 Sistem Gereksinimleri
 
 | Bileşenler | Minimum Gereksinimler | 
