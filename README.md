@@ -59,7 +59,39 @@ ssh -L 127.0.0.1:44003:127.0.0.1:44003 -L 127.0.0.1:44004:127.0.0.1:44004 -L 127
 ```
 | ssh -L 127.0.0.1:44003:127.0.0.1:44003 -L 127.0.0.1:44004:127.0.0.1:44004 -L 127.0.0.1:44005:127.0.0.1:44005 -L 127.0.0.1:44006:127.0.0.1:44006 root@187.23.17.369 |
 ```
-Kodu girdikten sonra ## Yes Diyoruz ve devam ediyoruz..
+Kodu girdikten sonra resimdeki gibi bizden SUNUCU şifremizi girmemizi isteyecek.. Unutmayın Sunucu şifresi !! 
+
+![image](https://github.com/Testnetnodes/Sonaric-Network/assets/115115403/f0039df3-2e64-4095-bf64-b500d7259465)
+
+
+ ## ✅ Sunucudaki bilgilerimizi yedekleyelim
+```shell
+sonaric identity-export -o mysonaric.identity
+```
+Manuel olarak yedeklemek isterseniz,Winscp-Mobax-Termius kullanabilirsiniz.Resimde işaretlediğim dosyayı yedeklemeyi unutmayın ! 
+
+![image](https://github.com/Testnetnodes/Sonaric-Network/assets/115115403/04cae3e5-f09e-4e8b-8b43-d661164163be)
+
+ ## ✅ Topladığımız puanlar şu an için sadece sunucu içinden gözüküyor.Bu kod ile kontrol edebilirsiniz
+```shell
+sonaric points
+```
+![image](https://github.com/Testnetnodes/Sonaric-Network/assets/115115403/9c656cea-e29e-49b8-9930-5dde04299e48)
+
+ ## ✅ Moniker adımızı değişmek için bu kodu kullanıyoruz
+```shell
+sonaric node-rename
+```
+![image](https://github.com/Testnetnodes/Sonaric-Network/assets/115115403/3758f952-d3df-402c-8766-0a9efedd0ba5)
+
+Kurulumu başarılı bi şekilde gerçekleştirdik.Explorerdan moniker adınızı veya Id'nizi arattığınızda bilgilerinizi görebileceksiniz.
+
+![image](https://github.com/Testnetnodes/Sonaric-Network/assets/115115403/1a57a2b0-d610-4e69-9586-e18a358f45d6)
+
+❤️ Kurulumu başarılı bi şekilde yaptıysan destek amaçlı repoyu Forklamayı ve Yıldız atmayı unutma ! :)
+
+
+
 
 
  
